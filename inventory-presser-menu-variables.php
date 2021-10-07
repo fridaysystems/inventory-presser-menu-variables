@@ -3,7 +3,7 @@ defined( 'ABSPATH' ) or exit;
 
 /**
  * Plugin Name: Inventory Presser Menu Variables
- * Plugin URI: https://inventorypresser.com
+ * Plugin URI: https://github.com/csalzano/inventory-presser-menu-variables
  * Description: An add-on for Inventory Presser that allows [invp_vin], [invp_stock_number], and other variables to be used in Custom Link Menu items.
  * Version: 1.0.0
  * Author: Corey Salzano
