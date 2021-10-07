@@ -15,7 +15,7 @@ defined( 'ABSPATH' ) or exit;
 function invp_replace_menu_variables( $atts, $item, $args, $depth )
 {
 	//Is the core plugin running?
-	if( ! class_exists( 'Inventory_Presser_Vehicle' ) )
+	if( ! class_exists( 'INVP' ) )
 	{
 		return $atts;
 	}
